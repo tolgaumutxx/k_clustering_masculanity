@@ -1,0 +1,1 @@
+This is clustering of the people who took the masculanity test, the test can be seen in the files in masculanity pdf. The clustering method shows people who are masculine and who are not masculine by using 2 clusters.
